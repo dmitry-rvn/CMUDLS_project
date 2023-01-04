@@ -1,0 +1,2 @@
+numpy
+spacy  # optional - for needle.tokenizers.EngLemmaTokenizer
